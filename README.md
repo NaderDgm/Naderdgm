@@ -7,7 +7,7 @@ I'm a Full Stack student at CMC, currently in my 2ᵉ year of Digital Developmen
 Frontend: HTML5, CSS3, Bootstrap, JavaScript
 Backend: PHP, Python (OOP)
 Databases: SQL, MySQL, Database Design
-Mobile Development (Learning): Kotlin, XML (Android)
+Mobile Development: Kotlin, XML (Android)
 Python GUI: Tkinter
 Version Control: Git, GitHub
 
