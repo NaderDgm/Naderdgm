@@ -25,4 +25,4 @@ Collaborative development using GitHub workflows
 
 Full Stack mobile + web integration
 
-Advanced UI/UX and performance optimization
+Advanced UI/UX and performance optimization.
