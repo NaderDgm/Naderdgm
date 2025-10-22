@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there 👋, I'm Nader Doghmi
 
-<!--
-**NaderDgm/Naderdgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack student at CMC, currently in my 2ᵉ year of Digital Development (graduation expected 2026). I’m passionate about building web and mobile applications and continuously expanding my skills.
 
-Here are some ideas to get you started:
+🔧 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML5, CSS3, Bootstrap, JavaScript
+Backend: PHP, Python (OOP)
+Databases: SQL, MySQL, Database Design
+Mobile Development (Learning): Kotlin, XML (Android)
+Python GUI: Tkinter
+Version Control: Git, GitHub
+
+💻 Projects & Interests
+
+Responsive web applications with modern UI/UX
+
+Dynamic backend applications using PHP/MySQL & Python scripts
+
+Mobile app prototypes using Kotlin & XML
+
+Collaborative development using GitHub workflows
+
+🌱 Currently Learning
+
+Full Stack mobile + web integration
+
+Advanced UI/UX and performance optimization
